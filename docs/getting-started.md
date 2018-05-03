@@ -115,7 +115,7 @@ This will start a development server for you, and print a QR code in your termin
 
 ## Running your React Native application
 
-Install the [Expo](https://expo.io) client app on your iOS or Android phone and connect to the same wireless network as your computer. Using the Expo app, scan the QR code from your terminal to open your project.
+Install the [Expo](https://expo.io) client app on your iOS or Android phone and connect to the same wireless network as your computer. Using the Expo app, For android user you can scan the QR code from your terminal to open your project. IOS version of expo removed capability of scanning QR code due to Apple app review guideline. However, you can access choose get a text of your exp link. Click that link starts with exp, expo app will launch automatically.
 
 ### Modifying your app
 
